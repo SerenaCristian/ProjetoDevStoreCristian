@@ -116,7 +116,7 @@ button[type="submit"]:hover{
 }
 .festao {
     position: absolute;
-    top: 25px; 
+    top: 35px; 
     left: 0; 
     width: 100%;
     height: auto;
@@ -124,7 +124,7 @@ button[type="submit"]:hover{
 }
 .logo {
     float: left; /* Define que o logotipo ficará à esquerda */
-    margin-top: -40px; /* Define a margem negativa para subir o logotipo */
+    margin-top: -25px; /* Define a margem negativa para subir o logotipo */
   }
   
   .logo img {
