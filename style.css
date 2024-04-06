@@ -101,7 +101,7 @@ nav ul li a:hover{
   }
 
 button[type="submit"]{
-    padding: 10px;
+    padding: 5px;
     background-color: #333;
     color: #fff;
     border: none;
@@ -115,21 +115,23 @@ button[type="submit"]:hover{
     background-color: #555;
 }
 .festao {
-    position: absolute;
-    top: 35px; 
+    position: absolute; 
+    top: 45px;
+    display:fixed;
     left: 0; 
-    width: 100%;
-    height: auto;
+    width: auto; 
+    height: auto; 
     z-index: 999; 
 }
+
 .logo {
-    float: left; /* Define que o logotipo ficará à esquerda */
-    margin-top: -25px; /* Define a margem negativa para subir o logotipo */
+    float: left; 
+    margin-top: -30px; 
   }
   
   .logo img {
 
-    width: 150px; /* Define a largura desejada para o logotipo */
-    height: auto; /* Mantém a proporção da imagem */
+    width: 150px; 
+    height: auto; 
   }
   
